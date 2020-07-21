@@ -1,0 +1,6 @@
+{
+    "name": "cjezowicz/woocommerce-shipping-usps",
+    "description": "USPS Shipping is a premium method that sources shipping rates from the USPS API and works with our free service WooCommerce Shipping, which creates discounted shipping labels right from your WooCommerce dashboard.",
+    "type": "wordpress-plugin",
+    "require": {}
+}
