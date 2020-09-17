@@ -18,7 +18,7 @@ class WC_Shipping_USPS extends WC_Shipping_Method {
 	 *
 	 * @var string
 	 */
-	private $endpoint = 'http://production.shippingapis.com/shippingapi.dll';
+	private $endpoint = 'https://secure.shippingapis.com/ShippingAPI.dll';
 
 	/**
 	 * Default user ID.
